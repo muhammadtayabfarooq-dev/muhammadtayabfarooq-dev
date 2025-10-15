@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Muhammad Tayab Farooq
 
-<!--
-**muhammadtayabfarooq-dev/muhammadtayabfarooq-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Python & Django Developer with 2 years of experience building backend systems, REST APIs, and real-time features.
+I focus on writing clean, maintainable code and creating scalable web applications.
 
-Here are some ideas to get you started:
+Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages & Frameworks: Python, Django, Django REST Framework, WebSockets
+
+Databases: MySQL, PostgreSQL, SQLite
+
+Tools: Git, GitHub, JWT, OAuth, Caching, Query Optimization
+
+Projects
+Job Portal Web App
+
+Role-based access, secure authentication (JWT, Google OAuth), and optimized queries with pagination.
+
+ORX Marketplace App
+
+Buyer/Seller roles, ad posting, payment integration, and media optimization for performance.
+
+Restaurant Management System
+
+Menu, orders, admin dashboard, and caching to reduce database hits.
+
+About Me
+
+Focused on backend development and API design
+
+Open to remote or on-site roles in Pakistan
+
+Always improving my craft and learning advanced Django features
+
+Reach me at: muhammadtayabfarooq@gmail.com
+
+Location: Lahore, Pakistan
