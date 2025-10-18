@@ -1,37 +1,30 @@
-Hi, I'm Muhammad Tayab Farooq
+# Muhammad Tayab Farooq
 
-I’m a Python & Django Developer with 2 years of experience building backend systems, REST APIs, and real-time features.
-I focus on writing clean, maintainable code and creating scalable web applications.
+**Python & Django Developer**
 
-Tech Stack
+I’m a backend-focused web developer with 2 years of hands-on experience in Python and Django.  
+I specialize in building clean, scalable, and secure backend systems — from REST APIs to full-stack web applications.
 
-Languages & Frameworks: Python, Django, Django REST Framework, WebSockets
+---
 
-Databases: MySQL, PostgreSQL, SQLite
+## Skills
+- **Languages:** Python, HTML, CSS, JavaScript (Basics)  
+- **Frameworks:** Django, Django REST Framework  
+- **Databases:** MySQL, PostgreSQL, SQLite  
+- **Tools & Concepts:** Git, GitHub, JWT, OAuth, Query Optimization, API Design
 
-Tools: Git, GitHub, JWT, OAuth, Caching, Query Optimization
+---
 
-Projects
-Job Portal Web App
+## Featured Projects
+- [Django Restaurant Management System](https://github.com/muhammadtayabfarooq-dev/django-restaurant-management-system)  
+- [Django Todo App](https://github.com/muhammadtayabfarooq-dev/django-todo-list)
 
-Role-based access, secure authentication (JWT, Google OAuth), and optimized queries with pagination.
+---
 
-ORX Marketplace App
-
-Buyer/Seller roles, ad posting, payment integration, and media optimization for performance.
-
-Restaurant Management System
-
-Menu, orders, admin dashboard, and caching to reduce database hits.
-
-About Me
-
-Focused on backend development and API design
-
-Open to remote or on-site roles in Pakistan
-
-Always improving my craft and learning advanced Django features
-
-Reach me at: muhammadtayabfarooq@gmail.com
-
+## Contact
+Email: [muhammadtayabfarooq@gmail.com](mailto:muhammadtayabfarooq@gmail.com)  
 Location: Lahore, Pakistan
+
+---
+
+Always learning, improving, and open to remote development opportunities.
