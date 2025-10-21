@@ -24,6 +24,10 @@ I am a backend-focused web developer with 2 years of hands-on experience buildin
 - **Django Todo List** — Task management app with authentication and CRUD operations; suitable for demonstrating core Django practices.  
   https://github.com/muhammadtayabfarooq-dev/django-todo-list
 
+- **Django Chat Application** — A real-time chat app built with Django and WebSockets, allowing multiple users to communicate seamlessly. 
+  https://github.com/muhammadtayabfarooq-dev/django-chat-app
+
+
 ---
 
 ## Contact
