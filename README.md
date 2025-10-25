@@ -27,6 +27,11 @@ I am a backend-focused web developer with 2 years of hands-on experience buildin
 - **Django Chat Application** — A real-time chat app built with Django and WebSockets, allowing multiple users to communicate seamlessly. 
   https://github.com/muhammadtayabfarooq-dev/django-chat-app
 
+- **Django Notes App Backend** — A lightweight backend system built with Django and Django REST Framework for managing personal notes with authentication and CRUD functionality.
+  https://github.com/muhammadtayabfarooq-dev/Notes-app-with-django
+
+  
+
 
 ---
 
