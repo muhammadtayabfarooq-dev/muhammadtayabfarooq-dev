@@ -30,11 +30,10 @@ I am a backend-focused web developer with 2 years of hands-on experience buildin
 - **Django Notes App Backend** — A lightweight backend system built with Django and Django REST Framework for managing personal notes with authentication and CRUD functionality.
   https://github.com/muhammadtayabfarooq-dev/Notes-app-with-django
 
+- **Django Expense Tracker** — A complete expense management system built with Django, allowing users to add, edit, and categorize expenses with authentication, summaries, and spending insights.
+  https://github.com/muhammadtayabfarooq-dev/django-expense-tracker
+
   
-
-
----
-
 ## Contact
 Email: muhammadtayabfarooq@gmail.com  
 Location: Lahore, Pakistan
