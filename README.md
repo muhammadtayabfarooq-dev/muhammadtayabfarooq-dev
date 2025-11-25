@@ -33,6 +33,9 @@ I am a backend-focused web developer with 2 years of hands-on experience buildin
 - **Django Expense Tracker** — A complete expense management system built with Django, allowing users to add, edit, and categorize expenses with authentication, summaries, and spending insights.
   https://github.com/muhammadtayabfarooq-dev/django-expense-tracker
 
+- **Django Ecommerce Store** — A full-featured Ecommerce web application built with Django, demonstrating a complete online shopping system with product management, cart, checkout, and user authentication.
+  https://github.com/muhammadtayabfarooq-dev/django-ecommerce-store
+
   
 ## Contact
 Email: muhammadtayabfarooq@gmail.com  
