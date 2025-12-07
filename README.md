@@ -39,6 +39,9 @@ I am a backend-focused web developer with 2 years of hands-on experience buildin
 - **Restaurant Billing System** — A backend-focused Django application for restaurant billing, featuring menu management, order creation with tax, service charges, discounts, and printable receipts.
   https://github.com/muhammadtayabfarooq-dev/Restuarant-Billing-System
 
+- **Django ATM Application** — A backend-focused Django application that simulates basic ATM operations, allowing users to sign up, create multiple accounts, deposit, withdraw, transfer funds, and view transaction history.
+  https://github.com/muhammadtayabfarooq-dev/Django-ATM-Application
+
   
 ## Contact
 Email: muhammadtayabfarooq@gmail.com  
