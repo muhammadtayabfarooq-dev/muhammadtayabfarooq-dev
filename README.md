@@ -36,6 +36,9 @@ I am a backend-focused web developer with 2 years of hands-on experience buildin
 - **Django Ecommerce Store** — A full-featured Ecommerce web application built with Django, demonstrating a complete online shopping system with product management, cart, checkout, and user authentication.
   https://github.com/muhammadtayabfarooq-dev/django-ecommerce-store
 
+- **Restaurant Billing System** — A backend-focused Django application for restaurant billing, featuring menu management, order creation with tax, service charges, discounts, and printable receipts.
+  https://github.com/muhammadtayabfarooq-dev/Restuarant-Billing-System
+
   
 ## Contact
 Email: muhammadtayabfarooq@gmail.com  
