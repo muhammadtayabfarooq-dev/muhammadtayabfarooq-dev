@@ -42,6 +42,8 @@ I am a backend-focused web developer with 2 years of hands-on experience buildin
 - **Django ATM Application** — A backend-focused Django application that simulates basic ATM operations, allowing users to sign up, create multiple accounts, deposit, withdraw, transfer funds, and view transaction history.
   https://github.com/muhammadtayabfarooq-dev/Django-ATM-Application
 
+- **ORX Marketplace** — A Django-based classifieds marketplace (similar to OLX) where users can post listings, submit offers, manage inquiries, and handle buying/selling interactions through a clean, backend-focused workflow.
+https://github.com/muhammadtayabfarooq-dev/ORX-Marketplace
   
 ## Contact
 Email: muhammadtayabfarooq@gmail.com  
