@@ -44,6 +44,9 @@ I am a backend-focused web developer with 2 years of hands-on experience buildin
 
 - **ORX Marketplace** — A Django-based classifieds marketplace (similar to OLX) where users can post listings, submit offers, manage inquiries, and handle buying/selling interactions through a clean, backend-focused workflow.
 https://github.com/muhammadtayabfarooq-dev/ORX-Marketplace
+
+- **Smart University Management System (UMS)** — A full-stack Django application for managing university operations including admissions, courses, exams, results, and fee management with role-based access for students, faculty, staff, and administrators.
+https://github.com/muhammadtayabfarooq-dev/Smart-University-Management-System
   
 ## Contact
 Email: muhammadtayabfarooq@gmail.com  
