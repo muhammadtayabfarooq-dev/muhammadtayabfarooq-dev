@@ -47,6 +47,8 @@ https://github.com/muhammadtayabfarooq-dev/ORX-Marketplace
 
 - **Smart University Management System (UMS)** — A full-stack Django application for managing university operations including admissions, courses, exams, results, and fee management with role-based access for students, faculty, staff, and administrators.
 https://github.com/muhammadtayabfarooq-dev/Smart-University-Management-System
+
+- **AI Chatbot Django — A full-stack Django + Channels application for real-time AI conversations with user authentication, persistent chat history, WebSocket-based messaging, and Groq-powered assistant responses, featuring chat session management (create/rename/delete), rich response formatting, and a modern responsive interface. https://github.com/muhammadtayabfarooq-dev/Django-Ai-ChatBot
   
 ## Contact
 Email: muhammadtayabfarooq@gmail.com  
