@@ -10,7 +10,7 @@ I am a backend-focused web developer with 2 years of hands-on experience buildin
 - **Languages:** Python, HTML, CSS, JavaScript (basic)  
 - **Frameworks & Libraries:** Django, Django REST Framework  
 - **Databases:** MySQL, PostgreSQL, SQLite  
-- **Tools & Concepts:** Git, GitHub, JWT, OAuth, Caching, Query Optimization, API Design
+- **Tools & Concepts:** Git, GitHub, JWT, OAuth, Caching, Query Optimization, API Design , WebSockets , Docker
 
 ---
 
